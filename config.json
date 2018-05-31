@@ -1,16 +1,15 @@
 {
-[
-"name" : "comp1",
-"repository" : "mypretendcode",
-"org" : "",
-"CI_artefact_bucket" : "sdo-testbucket"
-],
-[
-"name" : "spa",
-"repository" : "mypretendspa",
-"org" : "",
-"CI_artefact_bucket" : "sdo-testCI"
-]
-
-
+	"components": [{
+			"name": "comp1",
+			"repository": "mypretendcode",
+			"org": "",
+			"CI_artefact_bucket": "sdo-testbucket"
+		},
+		{
+			"name": "spa",
+			"repository": "mypretendspa",
+			"org": "",
+			"CI_artefact_bucket": "sdo-testCI"
+		}
+	]
 }
