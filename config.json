@@ -1,0 +1,16 @@
+{
+[
+"name" : "comp1",
+"repository" : "mypretendcode",
+"org" : "",
+"CI_artifact_bucket" : "sdo-testbucket"
+],
+[
+"name" : "spa",
+"repository" : "mypretendspa",
+"org" : "",
+"CI_artifact_bucket" : "sdo-testCI"
+]
+
+
+}
