@@ -3,13 +3,21 @@
 			"name": "comp1",
 			"repository": "mypretendcode",
 			"org": "",
-			"CI_artefact_bucket": "sdo-testbucket"
+			"CI_artefact_bucket": "sdo-testbucket",
+		        "CI_pipeline" : "testing",
+		        "QA_pipeline" : "testing",
+		        "QA_bucket" : "sdo-qabucket",
+		        "Release_artefact_bucket" : "sdo-release",
 		},
 		{
 			"name": "spa",
 			"repository": "mypretendspa",
 			"org": "",
-			"CI_artefact_bucket": "sdo-testCI"
+			"CI_artefact_bucket": "sdo-testCI",
+			"CI_pipeline" : "testing",
+		        "QA_pipeline" : "testing",
+		        "QA_bucket" : "sdo-qabucket",
+		        "Release_artefact_bucket" : "sdo-release",
 		}
 	]
 }
