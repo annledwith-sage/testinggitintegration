@@ -7,7 +7,7 @@
 		        "CI_pipeline" : "testing",
 		        "QA_pipeline" : "testing",
 		        "QA_bucket" : "sdo-qabucket",
-		        "Release_artefact_bucket" : "sdo-release",
+		        "Release_artefact_bucket" : "sdo-release"
 		},
 		{
 			"name": "spa",
@@ -17,7 +17,7 @@
 			"CI_pipeline" : "testing",
 		        "QA_pipeline" : "testing",
 		        "QA_bucket" : "sdo-qabucket",
-		        "Release_artefact_bucket" : "sdo-release",
+		        "Release_artefact_bucket" : "sdo-release"
 		}
 	]
 }
