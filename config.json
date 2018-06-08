@@ -13,7 +13,7 @@
 			"name": "spa",
 			"repository": "mypretendspa",
 			"org": "",
-			"CI_artefact_bucket": "sdo-testCI",
+			"CI_artefact_bucket": "sdo-testci",
 			"CI_pipeline" : "testing",
 		        "QA_pipeline" : "testing",
 		        "QA_bucket" : "sdo-qabucket",
